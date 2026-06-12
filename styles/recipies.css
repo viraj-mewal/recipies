@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+.heading {
+    text-align: center;
+    font-family: cursive;
+}
+
+.contents {
+    margin : 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contents h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+.contents li {
+    padding-bottom: 5px;
+}
+
+.back {
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+    outline-style: groove;
+    outline-color: black;
+    padding: 4px;
+}
+
+a:hover {
+    background-color: pink;
+}
+
